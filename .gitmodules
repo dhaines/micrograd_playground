@@ -1,0 +1,3 @@
+[submodule "micrograd"]
+	path = micrograd
+	url = git@github.com:karpathy/micrograd
